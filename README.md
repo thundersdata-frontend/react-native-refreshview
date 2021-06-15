@@ -1,0 +1,2 @@
+# react-native-refreshview
+基于ios MJRefresh和android SmartRefreshLayout实现的react-native自定义下拉刷新组件
