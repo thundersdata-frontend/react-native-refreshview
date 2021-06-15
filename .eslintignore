@@ -1,0 +1,10 @@
+node_modules
+build
+__test__
+android
+ios
+*.json
+es
+lib
+dist
+example
